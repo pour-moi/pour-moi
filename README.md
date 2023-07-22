@@ -2,7 +2,7 @@
 ![Master Head](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Biruk</h1>
-<h3 align="center">Currently learning SE @ALX and Computer Science</h3>
+<h3 align="center">Currently learning Computer Science and SE @ALX</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pour-moi&label=Profile%20views&color=0e75b6&style=flat" alt="pour-moi" /> </p>
