@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Biruk</h1>
-<h3 align="center">Currently learning Computer Science and SE@ALX</h3>
+<h3 align="center">Currently learning CS and SE @ALX</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pour-moi&label=Profile%20views&color=0e75b6&style=flat" alt="pour-moi" /> </p>
@@ -15,6 +15,7 @@
 <a href="https://twitter.com/fried_batata_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fried_batata_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/biruk-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biruk-m" height="30" width="40" /></a>
 <a href="https://www.behance.net/friedbatata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="friedbatata" height="30" width="40" /></a>
+<a href="https://discord.gg/1086604599659610254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1086604599659610254" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pour-moi&show_icons=true&locale=en&layout=compact" alt="pour-moi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pour-moi&show_icons=true&locale=en" alt="pour-moi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pour-moi&" alt="pour-moi" /></p>
