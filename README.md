@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/fried_batata_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fried_batata_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/biruk-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biruk-m" height="30" width="40" /></a>
-<a href="https://www.behance.net/friedbatata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="friedbatata" height="30" width="40" /></a>
-<a href="https://discord.gg/1086604599659610254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1086604599659610254" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/fried_batata_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fried_batata_" height="30" width="40" /></a> -->
+<!-- <a href="https://linkedin.com/in/biruk-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biruk-m" height="30" width="40" /></a> -->
+<!-- <a href="https://www.behance.net/friedbatata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="friedbatata" height="30" width="40" /></a> -->
+<!-- <a href="https://discord.gg/1086604599659610254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1086604599659610254" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
